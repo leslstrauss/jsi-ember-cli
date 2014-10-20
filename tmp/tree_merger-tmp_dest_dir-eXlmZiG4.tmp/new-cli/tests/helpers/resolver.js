@@ -1,0 +1,1 @@
+/Users/lesliestrauss/Code/jsi/new-cli/tmp/custom_static_compiler-tmp_dest_dir-EaDODv4g.tmp/new-cli/tests/helpers/resolver.js

@@ -1,0 +1,1 @@
+/Users/lesliestrauss/Code/jsi/new-cli/tmp/custom_static_compiler-tmp_dest_dir-RExGZwg1.tmp/ember-qunit-notifications/index.js
